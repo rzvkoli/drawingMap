@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaflet-interactive{
+    fill: none !important;
+    stroke-opacity:1 !important;
+    stroke-width:5 !important;
+    stroke: #c084fc !important;
+}
+
+.leaflet-control-zoom , .leaflet-draw-toolbar {
+    border: hidden !important;
+}
