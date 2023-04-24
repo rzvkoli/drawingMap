@@ -3,7 +3,7 @@
 ## Technologies
 
 - **React ( Functional Component )**
-- **react leafle**
-- **react leaflet draw**
-- **react highlight**
+- **React Leafle**
+- **React Leaflet draw**
+- **React Highlight**
 - **Tailwind**
